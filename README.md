@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Maxus619?theme=dark&font=Noto%20Sans)](https://leetcode.com/Maxus619)
 <!--
 **Maxus619/Maxus619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
